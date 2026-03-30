@@ -41,5 +41,35 @@
                 <a class="block p-3 rounded-lg hover:bg-gray-800">Reports</a>
             </nav>
         </aside>
+
+        <!-- Bagian Ivan -->
+        <main class="flex-1 p-8">
+            <h1 class="text-2xl font-semibold text-gray-700 mb-6">Dashboard Overview</h1>
+
+                        <div class="grid grid-cols-4 gap-6 mb-8">
+
+                            <div class="bg-white p-6 rounded-xl shadow">
+                                <p class="text-gray-500">Total Users</p>
+                                <h2 class="text-3xl font-bold">100</h2>
+                            </div>
+
+                            <div class="bg-white p-6 rounded-x shadow">
+                                <p class="text-gray-500">Total Orders</p>
+                                <h2 class="text-3xl font-bold">150</h2>
+                            </div>
+
+                            <div class="bg-white p-6 rounded-xl shadow">
+                                <p class="text-gray-500">Revenue</p>
+                                <h2 class="text-3xl font-bold">Rp 3.500.000</h2>
+                            </div>
+
+                            <div class="bg-white p-6 rounded-xl shadow">
+                                <p class="text-gray-500">Products</p>
+                                <h2 class="text-3xl font-bold">200</h2>
+                            </div>
+                        </div>           
+        </main>
+        
+            
 </body>
 </html>
